@@ -1,0 +1,14 @@
+{
+  "name": "gnome-commit-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/EnderDev/gnome-commit-counter",
+  "author": "EnderDev <kieran@dothq.org>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/core": "^4.2.4",
+    "dotenv": "^16.3.1",
+    "parse-link-header": "^2.0.0"
+  }
+}
